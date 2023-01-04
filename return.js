@@ -1,10 +1,10 @@
-// function multiplicationCuadrado(numero) {
-//     return numero * numero
-// }
+function multiplicationCuadrado(numero) {
+    return numero * numero
+}
 
 // var number = 2
 
-// let primerCuadrado = multiplicationCuadrado(number)
+let primerCuadrado = multiplicationCuadrado(number)
 // let cuadradoDelCuadrado = multiplicationCuadrado(primerCuadrado)
 // console.log('el resultado es:', primerCuadrado, cuadradoDelCuadrado)
 
